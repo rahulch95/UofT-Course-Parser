@@ -8,4 +8,4 @@ It gets this data by parsing through the timetable and UofT coursefinder and sto
 
 ###### http://coursefinder.utoronto.ca/
 ___
-It is currently written implemented as a flask server and I plan to add gunicorn to it soon.
+It is currently written implemented as a flask server and I plan to add gunicorn to it soon. The main work so far is done only on the parser itself (and not the API).
